@@ -1,4 +1,4 @@
-# CS4348 Project 2 — GXR2300010 
+# Bank Simulation
 
 This java file simulates a bank environment using threads and semaphores to model real world synchronization constraints. The simulation includes 3 tellers and 50 customers, all interacting concurrently with rules for entering the bank, accessing the manager, and accessing the safe.
 
